@@ -1,0 +1,9 @@
+# device-controller
+
+A program that allows users to control a device from another device.
+
+How it works:
+1 - Replace the ip in the html and the server with your ipv4 ip.
+2 - the sharing device should be on localhost and the watching should be on the ip local link //192.168.1.10:4000 -> for example.
+3 - Click share on the sharing device then watch on the watching device.
+4 - Enjoy your control and screen watch.
